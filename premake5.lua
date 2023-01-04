@@ -107,6 +107,7 @@ project "Assimp"
 
 	includedirs
 	{
+		"code",
 		"include",
 		"contrib/irrXML",
 		"contrib/zlib",
