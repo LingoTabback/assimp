@@ -95,6 +95,7 @@ project "Assimp"
 	files
 	{
 		"include/**",
+		"code/AssetLib/**",
 		"code/CApi/**",
 		"code/Common/**",
 		"code/Material/**",
