@@ -100,7 +100,7 @@ project "ImGui"
 		"code/Material/**",
 		"code/Pbrt/**",
 		"code/PostProcessing/**",
-		"code/res/**"
+		"code/res/**",
 		"contrib/irrXML/*"
 	}
 
